@@ -84,3 +84,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# get rid of vs code folder
+.vscode/
