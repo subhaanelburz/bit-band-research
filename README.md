@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 **Quick Navigation**  
-[Abstract](#abstract) | [Docs Home](docs/README.md) | [Methods](docs/methodology/overview.md) | [Experiments](docs/tests/README.md) | [Results](docs/results/README.md) | [Glossary](docs/glossary.md) | [References](docs/references.md)
+[Abstract](#abstract) | [Docs Home](docs/README.md) | [Background](docs/background/README.md) | [Methodology](docs/methodology/README.md) | [Experiments](docs/tests/README.md) | [Results](docs/results/README.md) | [Glossary](docs/background/glossary.md) | [References](docs/references/README.md)
 
 ### Abstract
 
@@ -43,10 +43,12 @@ Team: Ali, Hadi, Jose, Skand
 ## Repo Map
 
 - Docs home: [docs/README.md](docs/README.md)
-- Methodology: [docs/methodology/overview.md](docs/methodology/overview.md)
-- Tests index: [docs/tests/README.md](docs/tests/README.md)
+- Background: [docs/background/README.md](docs/background/README.md)
+- Glossary: [docs/background/glossary.md](docs/background/glossary.md)
+- Methodology: [docs/methodology/README.md](docs/methodology/README.md)
+- Experiments: [docs/tests/README.md](docs/tests/README.md)
 - Results summary: [docs/results/README.md](docs/results/README.md)
-- References: [docs/references.md](docs/references.md)
+- References: [docs/references/README.md](docs/references/README.md)
 
 Source code:
 
@@ -54,7 +56,7 @@ Source code:
 
 ## How to Reproduce
 
-1. Follow the setup guide: [docs/setup/ccs-import.md](docs/setup/ccs-import.md)
+1. Follow the setup guide: [docs/setup/README.md](docs/setup/README.md)
 2. Import a project into CCS and build/flash to the TM4C123GXL
 3. Run the test, stop at the breakpoint after the loop, and record:
    - start_ticks, end_ticks, ticks
@@ -76,7 +78,7 @@ Additionally, we would like to extend our gratitude to Professor Jimmie Bud Davi
 
 ## References
 
-See [docs/references.md](docs/references.md) for datasheets, ARM documentation, and related material.
+See [docs/references/README.md](docs/references/README.md) for datasheets, ARM documentation, and related material.
 
 ## License
 
