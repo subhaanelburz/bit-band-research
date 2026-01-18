@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 **Quick Navigation**  
-[Abstract](#abstract) | [Motivation](#motivation) | [Methods](docs/methodology/overview.md) | [Experiments](docs/tests/README.md) | [Results](docs/results/README.md) | [References](docs/references.md) | [Docs Home](docs/README.md)
+[Abstract](#abstract) | [Docs Home](docs/README.md) | [Methods](docs/methodology/overview.md) | [Experiments](docs/tests/README.md) | [Results](docs/results/README.md) | [Glossary](docs/glossary.md) | [References](docs/references.md)
 
 ### Abstract
 
