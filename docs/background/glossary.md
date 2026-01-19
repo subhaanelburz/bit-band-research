@@ -179,7 +179,7 @@ What each name means:
 These examples are based on the TM4C datasheet mapping section, rewritten into the same format used above.
 
 <p align="center">
-  <img src="images/bit-band.png" width="600">
+  <img src="../images/bit-band.png" width="600">
 </p>
 
 ### Example 1
