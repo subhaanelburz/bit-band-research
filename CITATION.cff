@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "Is Bit-Banding Worth It? An Experimental Comparison of Bit-Banding vs Read-Modify-Write (RMW) on the TM4C123GXL"
+authors:
+  - family-names: "Elburz"
+    given-names: "S."
+year: 2025
+license: MIT
+repository-code: "https://github.com/subhaanelburz/bit-band-research"
+keywords:
+  - bit-banding
+  - read-modify-write
+  - RMW
+  - ARM Cortex-M
+  - TM4C123GXL
+  - embedded systems
+  - GPIO
+  - SysTick
+  - atomicity
+abstract: >
+  Benchmarks on the TM4C123GXL comparing ARM bit-banding versus standard read-modify-write (RMW),
+  measuring timing (SysTick cycles), code size (.text via .map), and atomicity under interrupts.
+version: "v1.0.0"
+date-released: "2026-01-20"
