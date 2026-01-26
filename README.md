@@ -36,9 +36,15 @@ Embedded software frequently needs reliable bit updates, such as GPIO control an
 
 ## Team
 
-Project Lead: Subhaan
-
-Team: Ali, Hadi, Jose, Skand
+| Name | Role | What they contributed |
+| --- | --- | --- |
+| **Subhaan Elburz** | Project Lead | Project direction, experiment design, benchmarking workflow, analysis, documentation, and repo structure |
+| **Anush Paudel** | Co-lead | Co-led project planning and documentation quality; helped organize the docs, review content for clarity, and support poster development |
+| **Kiefer Wong** | Co-lead | Co-led validation and testing workflow; supported atomicity test design/verification, result checking, and poster development |
+| Ali Alfridawi | Member | Supported SRAM single-bit bit-banding test implementation, data collection, and poster development |
+| Jose Perez Flores | Member | Supported SRAM single-bit RMW test implementation, data collection, and poster development |
+| Hadi Kudoda | Member | Supported testing, data collection, general project contributions, and poster development |
+| Skand Maharjan | Member | Supported SRAM single-bit RMW test implementation, data collection, and poster development |
 
 ## Repo Map
 
@@ -71,9 +77,16 @@ Special thanks to the ACM Research Committee leads, Mariah Gardner and Rohita Ko
 
 Additionally, we would like to extend our gratitude to Professor Jimmie Bud Davis for generously providing the TM4C microcontroller boards used in our experiments.
 
+### Contributor affiliations
+
+- Kiefer Wong (Co-lead) contributed as an independent collaborator and is affiliated with the Rochester Institute of Technology (RIT).
+
 <p align="center">
   <img src="docs/images/acm-logo.png" alt="ACM Logo" width="250" />
-  &nbsp; &nbsp; <img src="docs/images/uta-logo.png" alt="UTA Logo" width="250" />
+  &nbsp; &nbsp;
+  <img src="docs/images/uta-logo.png" alt="UTA Logo" width="250" />
+  &nbsp; &nbsp;
+  <img src="docs/images/rit-logo.png" alt="RIT Logo" width="125" />
 </p>
 
 ## References
